@@ -1,0 +1,11 @@
+1. Interface with a stock price data feed and analyze 
+data
+
+2. Implement data visualization for different stock 
+prices using 'Perspective' component, developed by 
+JPMC itself
+['Perspective' component used for interactive analysis 
+and data visualization]
+
+3. Display data visually in a chart for traders, giving 
+them better insight for profit and losses.
